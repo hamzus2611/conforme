@@ -1,0 +1,15 @@
+export const LOGIN = 'LOGIN'
+export const LOGIN_SECCESS = 'LOGIN_SECCESS'
+export const LOGIN_FAIL = 'LOGIN_FAIL'
+
+
+export const REGISTER = 'REGISTER'
+export const REGISTER_SECCESS = 'REGISTER_SECCESS'
+export const REGISTER_FAIL = 'REGISTER_FAIL'
+
+export const LOGOUT = 'LOGOUT'
+
+
+export const GET_USER_INFO = 'GET_USER_INFO'
+export const GET_USER_INFO_FAIL = 'GET_USER_INFO_FAIL'
+export const GET_USER_INFO_SECCESS = 'GET_USER_INFO_SECCESS'
